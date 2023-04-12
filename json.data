@@ -5,22 +5,22 @@
       "videos": 
       [
         {
-          "description": "Music Video of Kid Laroi, Justin Bieber Stay",
+          "description": "Music Video of a song sang by both Kid Laroi and Justin Bieber, the song name is Stay",
           "sources": [ "https://firebasestorage.googleapis.com/v0/b/music-videos-afc84.appspot.com/o/The%20Kid%20LAROI%2C%20Justin%20Bieber%20-%20STAY%20(Official%20Video).mp4?alt=media&token=8562da6a-f49c-4821-ae63-aa0dcfd5c922" ],
           "subtitle": "By YouTube",
           "thumb": "https://firebasestorage.googleapis.com/v0/b/music-videos-afc84.appspot.com/o/kidlaroi_stay.jpg?alt=media&token=9793be52-2bb1-4d54-b71d-8e8e78320b4c",
           "title": "The Kid LAROI, Justin Bieber - STAY (Official Video)"
         },
         {
-          "description": "Music Video of Miyeon Drive",
-          "sources": [ "https://firebasestorage.googleapis.com/v0/b/music-videos-afc84.appspot.com/o/CHARLIE%20PUTH%20-%20THATS%20NOT%20HOW%20THIS%20WORKS%20(FEAT.%20DAN%20%2B%20SHAY)%20%5Bofficial%20music%20video%5D.mp4?alt=media&token=a40acfe4-acdc-405b-9b3b-f66125216c7f" ],
+          "description": "Music Video of solo debut sang by a kpop artist Miyeon from a kpop group called",
+          "sources": [ "https://firebasestorage.googleapis.com/v0/b/music-videos-afc84.appspot.com/o/(MIYEON)%20-%20Drive%20Official%20Music%20Video.mp4?alt=media&token=ffa75957-daaf-45ab-86d7-7fc852b4082b" ],
           "subtitle": "By YouTube",
           "thumb": "https://firebasestorage.googleapis.com/v0/b/music-videos-afc84.appspot.com/o/miyeon_drive.jpg?alt=media&token=f84a9e53-7af0-4abc-a374-aef8882f3fe5",
           "title": "(MIYEON) - Drive Official Music Video"
         },
         {
-          "description": "Music Video of Charlie Puth Thats not how this works",
-          "sources": [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" ],
+          "description": "Music Video of a song by Charlie Puth called Thats not how this works, featuring dan and shay",
+          "sources": [ "https://firebasestorage.googleapis.com/v0/b/music-videos-afc84.appspot.com/o/CHARLIE%20PUTH%20-%20THATS%20NOT%20HOW%20THIS%20WORKS%20(FEAT.%20DAN%20%2B%20SHAY)%20%5Bofficial%20music%20video%5D.mp4?alt=media&token=a40acfe4-acdc-405b-9b3b-f66125216c7f" ],
           "subtitle": "By YouTube",
           "thumb": "https://firebasestorage.googleapis.com/v0/b/music-videos-afc84.appspot.com/o/charlieputh_thatsnothowthisworks.jpg?alt=media&token=4e166fa8-7063-4213-97db-6c7954e639cb",
           "title": "CHARLIE PUTH - THATS NOT HOW THIS WORKS (FEAT. DAN + SHAY) [official music video]"
